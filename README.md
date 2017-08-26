@@ -1,6 +1,6 @@
 # functions-scavenger-hunt
 
-![Reference](https://github.com/junior-devleague/function-scavenger-hunt/blob/master/reference.png)
+![Reference](https://github.com/junior-devleague/functions-scavenger-hunt/blob/master/reference.png)
 
 ### Objective
 
