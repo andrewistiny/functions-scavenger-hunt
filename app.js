@@ -24,7 +24,7 @@
   //PART I
 
   //Function 1
-  //Create a function that takes in variables a and b, then divides them by 11.
+  //Create a function that adds variables a and b, then divides them by 11.
 
 
   //Function 2
