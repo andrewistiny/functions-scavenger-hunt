@@ -30,7 +30,7 @@ To complete this part, fulfill the following requirements:
 To complete the second part, fulfill the following requirements:
 1. View the project in your browser.
 2. Look in your console.log.
-3. Match the resulting number from each number to the letter of the alphabet as indicated in the above picture.
+3. Match the resulting number from each function to the letter of the alphabet as indicated in the above picture.
 4. Find the objects and give them to the instructor!
 
 ### Resources
